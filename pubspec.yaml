@@ -19,7 +19,6 @@ dependencies:
       ref: main
   message_pack_dart: ^2.0.1
   http: ^1.1.0
-  uuid: ^4.1.0
 
 dev_dependencies:
   test: ^1.16.2
